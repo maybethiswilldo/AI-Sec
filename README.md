@@ -1,4 +1,4 @@
 # AI-Sec
 
-### Week 1
+### Week 2
 Combination
